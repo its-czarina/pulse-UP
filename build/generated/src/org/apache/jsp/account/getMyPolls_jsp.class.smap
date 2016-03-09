@@ -1,0 +1,12 @@
+SMAP
+getMyPolls_jsp.java
+JSP
+*S JSP
+*F
++ 0 getMyPolls.jsp
+account/getMyPolls.jsp
+*L
+5,5:51
+11,8:55
+20,37:64
+*E

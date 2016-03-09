@@ -1,0 +1,13 @@
+SMAP
+verifyLogin_jsp.java
+JSP
+*S JSP
+*F
++ 0 verifyLogin.jsp
+account/verifyLogin.jsp
+*L
+4,6:52
+11,10:57
+22,39:68
+60,2:107
+*E
